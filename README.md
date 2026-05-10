@@ -3,7 +3,7 @@
 
 **Course:** Object Oriented Programming (OOP)  
 **Semester:** Spring 2026  
-**Section:** BCS-2G  
+**Section:** BCS-2B  
 
 ---
 
